@@ -157,4 +157,6 @@ programmer_hash[:dennis_ritchie] = {:languages => "Assembly"}
 
 puts programmer_hash
 
+return programmer_hash
+
 end
