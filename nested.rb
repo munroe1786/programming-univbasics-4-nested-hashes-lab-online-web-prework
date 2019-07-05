@@ -66,7 +66,7 @@ def dennis_ritchies_language
 
 programmer_hash[:dennis_ritchie][:languages] = "C"
 
-put programmer_hash
+puts programmer_hash
 
 return programmer_hash[:dennis_ritchie][:languages]
 
