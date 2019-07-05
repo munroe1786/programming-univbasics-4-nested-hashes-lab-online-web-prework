@@ -68,7 +68,7 @@ def dennis_ritchies_language
      
 end
 
-programmer_hash[:dennis_ritchie]
+programmer_hash[:dennis_ritchie][:languages]
 
 return programmer_hash[:dennis_ritchie][:languages]
 
