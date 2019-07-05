@@ -105,7 +105,7 @@ programmer_hash
   
                  }
 
-puts programmer_hash
+return programmer_hash
     
 end
 
